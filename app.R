@@ -1,7 +1,7 @@
 #######################################################
-### Datascience Workshop Uni Köln
+### Shiny App Pandemic 
 ### August 2021
-### Fifth Shiny Version - Land, Y-Axe und Date Range
+### 
 #######################################################
 
 library(shiny)
